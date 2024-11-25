@@ -1,22 +1,23 @@
 5 expectations from Coach -
 
-To do projects in time.
+Their expectation from me to learn as much as possible and score 75%.
 
-In case of difficulties I would like to reach out for help.
+They will expect me to try best to follow project timeline as given.
 
-To come to classes and active participation.
+In case of difficulties they would like to reach out for help as soon as possible.
 
-Responds to question on time to help me as a student.
+They expect me to come to classes and active participation from my end.
 
-I would expect coaches to take a wholistic approach beyond coding (non-coding aspect) and to thrive as a person.
+They expect me to communicate early to get things going.
+
 
 
 
 5 expectations from Me about _nology -
 
-I would like _nology to be supportive and on time feedbacks on my work.
+I would like _nology to be supportive and provide on time feedbacks on my work.
 
-While it is stressful journey, I expect them to be co-operative wherever they can.
+I would expect _nology to take a wholistic approach beyond coding (non-coding aspect) and help thrive me as a person.
 
 I like to take step by step approach, would appreciate to be patient with me please, as coding is new to me!
 
